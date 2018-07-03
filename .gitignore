@@ -1,0 +1,8 @@
+build/
+
+*~
+*.swp
+*.bak
+*.sav
+*.save
+
